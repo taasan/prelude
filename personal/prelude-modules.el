@@ -23,6 +23,7 @@
 (require 'prelude-go)
 ;; (require 'prelude-haskell)
 (require 'prelude-js)
+(require 'prelude-ts)
 ;; (require 'prelude-latex)
 ;; (require 'prelude-lisp)
 ;; (require 'prelude-ocaml)
