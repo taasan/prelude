@@ -6,5 +6,5 @@
               (local-set-key (kbd "C-x k") 'server-edit))))
 
 ;; Slå på linjenummer
-(when (version<= "26.0.50" emacs-version )
+(when (version<= "26.0.50" emacs-version)
   (global-display-line-numbers-mode))
