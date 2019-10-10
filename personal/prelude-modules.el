@@ -28,8 +28,8 @@
 ;; (require 'prelude-lisp)
 ;; (require 'prelude-ocaml)
 (require 'prelude-org) ;; Org-mode helps you keep TODO lists, notes and more
-;; (require 'prelude-perl)
 ;; (require 'prelude-python)
+(require 'prelude-perl)
 ;; (require 'prelude-ruby)
 ;; (require 'prelude-rust)
 ;; (require 'prelude-scala)
